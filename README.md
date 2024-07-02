@@ -1,5 +1,5 @@
 # Skripsi
 
-Skripsi berjudul "Penerapan Metode Hidden Markov Model Pada Sistem Pengenalan Suara Sirene Kendaraan Darurat"
+Dokumen Tugas Akhir
 
-Repository berisikan kode program, dan model sistem.
+Repository berisikan kode program perancangan model sistem dan layar sistem.
